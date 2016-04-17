@@ -1,5 +1,6 @@
 # App-specific files
 config.json
+sessions.db
 
 # Logs
 logs
